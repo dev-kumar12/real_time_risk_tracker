@@ -1,0 +1,9 @@
+Python
+
+Pandas
+
+Rich (for CLI dashboards)
+
+Scikit-learn (Isolation Forest for anomaly detection)
+
+CSV file I/O
