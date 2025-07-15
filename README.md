@@ -52,3 +52,6 @@ python ml_risk_dashboard.py
 ┗━━━━━━━━━━┻━━━━━━━━━━┻━━━━━━━━━━┻━━━━━━━━━━━┛
 
 
+## 📄 SQL Integration (Optional)
+
+This project includes a sample SQL file [`risk_reconciliation_queries.sql`](risk_reconciliation_queries.sql) demonstrating how the logic would apply to a database-driven trading system. The queries cover reconciliation, alerts, and trade analysis across expected vs actual results.
